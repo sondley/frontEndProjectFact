@@ -84,6 +84,7 @@ const data = [
       }
     ]
   },
+  /*
   {
     titleName: "consultas",
     titleIcon: "chart bar outline",
@@ -101,7 +102,7 @@ const data = [
         label: "Consulta Ventas"
       }
     ]
-  }
+  }*/
 ];
 
 class CustomMenu extends Component {
